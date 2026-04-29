@@ -1,2 +1,2 @@
 # ms-excel-project
-Sales Dashboard in MS Excel
+Built Sales Dashboard in MS Excel using Pivot Tables, Charts to analyize regional sales performance
