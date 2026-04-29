@@ -1,2 +1,2 @@
 # ms-excel-project
-My Sales Dashboard in MS Excel
+Sales Dashboard in MS Excel
