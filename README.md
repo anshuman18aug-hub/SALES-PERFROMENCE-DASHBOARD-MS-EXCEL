@@ -1,2 +1,2 @@
-# Built sales dashboard in MS Excel using Pivot tables, charts to analyize regional sales performance
-Built Sales Dashboard in MS Excel using Pivot Tables, Charts to analyize regional sales performance
+BUILT SALES PERFORMENCE DASHBOARD USING PIVOT TABLES, CHARTS, AND SLICERS
+CLEANED RAW DATA USING POWER QUERY FOR QUICK ANALYSIS
